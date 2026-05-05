@@ -1,2 +1,2 @@
 # Retail-sales-dashboard-
-Used tools excel, power bi 
+Used tools excel, power BI
