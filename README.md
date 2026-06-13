@@ -30,11 +30,13 @@ Sales_Dashboard/
 ├── sample_sales_data.xlsx
 ├── dashboard_screenshot.png
 └── README.md
+|___customer_relationship_data.xlsv
+
 ```
 
 ---
 
-## 📈 Dashboard Features
+##  Dashboard Features
 ✔ KPI Cards (Sales, Profit, Orders)  
 ✔ Monthly Sales Trend  
 ✔ Region-wise Analysis  
@@ -43,17 +45,13 @@ Sales_Dashboard/
 
 ---
 
-## 📷 Dashboard Preview
-
-(Add dashboard screenshot here)
-
-Example:
+##  Dashboard Preview
 
 ![Dashboard Preview](dashboard_screenshot.png)
 
 ---
 
-## 📊 Dataset Information
+##  Dataset Information
 
 Dataset includes:
 - Order Date
@@ -65,16 +63,7 @@ Dataset includes:
 
 ---
 
-## ▶ How to Open
-
-1. Download the repository
-2. Open `Sales_Dashboard.pbix` in Power BI Desktop
-3. Open `sales_data.xlsx` if dataset changes are needed
-4. Refresh data inside Power BI
-
----
-
-## 🎯 Learning Outcome
+## Learning Outcome
 
 Through this project, I learned:
 - Data cleaning using Excel
@@ -84,10 +73,10 @@ Through this project, I learned:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
-Sanju Singh  
+Sanju   
 B.Tech CSE Student  
 
-GitHub: https://github.com/YOUR_USERNAME  
-LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+GitHub: https://github.com/sanju-09ac  
+LinkedIn: https://linkedin.com/in/sanju-248939312
